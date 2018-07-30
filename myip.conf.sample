@@ -1,0 +1,8 @@
+#
+# Send mails to...
+TO=myadress@mail.net
+# Use to send mail
+LOG=/tmp/ip.log
+# Where to store ip current address
+TMP=/var/tmp
+
